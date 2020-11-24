@@ -10,3 +10,12 @@ The frontend is made using ReactJS.
 - Edit user
 - View all users and apply filters to search easier through the users' list
 - Delete a user
+
+## Pictures
+
+[![Screenshot 1](https://github.com/AlecBp/react-spring-simple-crud/docs/screenshot1.PNG)](https://github.com/AlecBp/react-spring-simple-crud/docs/screenshot1.PNG)
+[![Screenshot 2](https://github.com/AlecBp/react-spring-simple-crud/docs/screenshot2.PNG)](https://github.com/AlecBp/react-spring-simple-crud/docs/screenshot2.PNG)
+[![Screenshot 3](https://github.com/AlecBp/react-spring-simple-crud/docs/screenshot3.PNG)](https://github.com/AlecBp/react-spring-simple-crud/docs/screenshot3.PNG)
+[![Screenshot 4](https://github.com/AlecBp/react-spring-simple-crud/docs/screenshot4.PNG)](https://github.com/AlecBp/react-spring-simple-crud/docs/screenshot4.PNG)
+[![Screenshot 5](https://github.com/AlecBp/react-spring-simple-crud/docs/screenshot5.PNG)](https://github.com/AlecBp/react-spring-simple-crud/docs/screenshot5.PNG)
+[![Screenshot 6](https://github.com/AlecBp/react-spring-simple-crud/docs/screenshot6.PNG)](https://github.com/AlecBp/react-spring-simple-crud/docs/screenshot6.PNG)
